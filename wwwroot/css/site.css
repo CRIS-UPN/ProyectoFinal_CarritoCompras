@@ -1,0 +1,100 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.navbar-morado {
+    background-color: purple;
+}
+
+.nav-link-grande {
+    font-size: 2.0rem; /* Ajusta el tamaño de la fuente (1.25rem es un ejemplo) */
+    margin-right: 40px; /* Ajusta el margen derecho para separar los elementos */
+}
+
+.carrito-container {
+    display: flex;
+    align-items: center;
+}
+
+.carrito-img {
+    height: 200px; /* Ajusta el tamaño según sea necesario */
+    width: auto;
+}
+
+.navbar-collapse .navbar-nav .nav-link-grande {
+    font-size: 40rem; /* Aumenta el tamaño de la fuente */
+    color: white; /* Color blanco */
+}
+
+.navbar-collapse .navbar-nav .nav-link-grande:hover {
+        color: #cccccc; 
+}
+
+.partial-login .nav-link {
+    font-size: 30rem; 
+    color: white; 
+}
+
+.partial-login .nav-link:hover {
+        color: #cccccc; /* Color al pasar el cursor */
+
+}
+
+/* Ajuste adicional para móviles */
+@media (max-width: 576px) {
+    .carrito-img {
+        height: 40px;
+    }
+}
+
+#infoSection img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    max-height: 300px;
+    object-fit: cover;
+    display: block;
+}
+
+#infoParagraph {
+    margin-top: 15px;
+    font-size: 1.25rem;
+    line-height: 1.5;
+}
+
+.option-item {
+    font-size: 2rem !important; /* Aumenta el tamaño de la fuente */
+    padding: 30px 20px; /* Aumenta el espaciado interno */
+    margin-bottom: 15px; /* Añade espacio entre los elementos */
+    cursor: pointer; /* Cambia el cursor para indicar que es interactivo */
+    text-align: center !important; /* Centra el texto */
+}
+
+.option-item:hover {
+        background-color: #f0f0f0;
+ }
+
+/*
+.paragraph-large {
+    font-size: 10rem; /* Ajusta el tamaño del texto del párrafo grande 
+    line-height: 2.5; /* Ajusta el interlineado del párrafo 
+} */

@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <img src="~/images/tambo.png" alt="Central Image" class="img-fluid w-100" />
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-8 order-md-2">
+            <div id="infoSection" class="text-center">
+                <img id="infoImage" src="" alt="" class="img-fluid mb-3 d-none mx-auto" />
+                <p id="infoParagraph" class="text-center paragraph-large"></p>
+            </div>
+        </div>
+        <div class="col-md-4 order-md-1">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item list-group-item-action option-item" onclick="showInfo('sobreNosotros')">Sobre Nosotros</li>
+                <li class="list-group-item list-group-item-action option-item" onclick="showInfo('mision')">Misión</li>
+                <li class="list-group-item list-group-item-action option-item" onclick="showInfo('vision')">Visión</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script>
+    function showInfo(section) {
+        var infoImage = document.getElementById("infoImage");
+        var infoParagraph = document.getElementById("infoParagraph");
+
+        if (section === "sobreNosotros") {
+            infoImage.src = "@Url.Content("~/images/somos.png")";
+            infoParagraph.textContent = "Somos Parti-tiendas Tambo, una cadena de practi-tiendas que es parte de Lindcorp, un grupo empresarial peruano dedicado y comprometido con el desarrollo del Perú. Somos la cadena de tiendas de conveniencia más grande a nivel nacional, tanto en ventas como en número de locales, teniendomás del 60 % de participación en el mercado";
+        } else if (section === "mision") {
+            infoImage.src = "@Url.Content("~/images/mision.png")";
+            infoParagraph.textContent = "Nuestra misión es mejorar significativamente la calidad de vida de nuestros clientes y colaboradores, proporcionándoles productos y servicios de alta calidad que satisfagan sus necesidades y superen sus expectativas. Nos comprometemos a crear un entorno de trabajo positivo y enriquecedor para nuestros empleados, fomentando el desarrollo personal y profesional, y a ofrecer a nuestros clientes experiencias excepcionales que contribuyan a su bienestar y felicidad.";
+        } else if (section === "vision") {
+            infoImage.src = "@Url.Content("~/images/vision.png")";
+            infoParagraph.textContent = "Nuestra visión es convertirnos en la tienda de conveniencia líder en todo el país, estableciendo la mayor cantidad de establecimientos en diversas localidades. Aspiramos a estar presentes en cada comunidad, proporcionando un acceso fácil y rápido a una amplia gama de productos de calidad. Queremos ser la primera opción para nuestros clientes cuando piensen en conveniencia y practicidad, ofreciendo un servicio superior y una experiencia de compra excepcional en cada uno de nuestros establecimientos.";
+        }
+
+        infoImage.classList.remove("d-none");
+    }
+</script>

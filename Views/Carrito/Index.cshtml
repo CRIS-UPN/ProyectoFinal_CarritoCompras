@@ -1,0 +1,162 @@
+﻿@model VistaDetalleVentacs
+
+@{
+    ViewData["Title"] = "";
+}
+
+<form id="buscarForm" asp-action="BuscarProductos" method="post">
+    <label for="tipoBusqueda">Buscar por:</label>
+    <select name="tipoBusqueda" id="tipoBusqueda">
+        <option value="Categoria">Categoría</option>
+        <option value="Marca">Marca</option>
+    </select>
+    <label for="id">Seleccionar:</label>
+    <select name="id" id="id">
+        @if (Model.TipoBusqueda == "Categoria")
+        {
+            foreach (var categoria in Model.Categorias)
+            {
+                <option value="@categoria.IdCategoria"> @categoria.NombreCategoria </option>
+            }
+        }
+        else if (Model.TipoBusqueda == "Marca")
+        {
+            foreach (var marca in Model.Marcas)
+            {
+                <option value="@marca.IdMarca"> @marca.NombreMarca </option>
+            }
+        }
+    </select>
+    <button type="submit">Buscar Productos</button>
+</form>
+
+@if (Model.Producto != null && Model.Producto.Count > 0)
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Imagen</th>
+                <th>Nombre</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+                <th>Acción</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var producto in Model.Producto)
+            {
+                <tr>
+                    <td><img src="@Url.Content(producto.RutaImagen)" alt="@producto.NombreProducto" style="width: 100px; height: 100px;" /></td>
+                    <td>@producto.NombreProducto</td>
+                    <td>S/@producto.Precio</td>
+                    <td>
+                        <input type="number" name="cantidad" id="cantidad_@producto.IdProducto" value="1" min="1" max="@producto.Cantidad" />
+                    </td>
+                    <td>
+                        <form asp-action="AgregarAlCarro" method="post">
+                            <input type="hidden" name="idProducto" value="@producto.IdProducto" />
+                            <input type="hidden" name="cantidad" id="cantidadHidden_@producto.IdProducto" value="1" />
+                            <button type="submit" class="btn btn-primary">Añadir al Carrito</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No se encontraron productos.</p>
+}
+
+<h2>Carrito de Compras</h2>
+@if (Model.CarroCompra != null && Model.CarroCompra.Count > 0)
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Imagen</th>
+                <th>Nombre</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+                <th>Subtotal</th>
+                <th>Acción</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.CarroCompra)
+            {
+                <tr>
+                    <td><img src="@Url.Content(item.Producto.RutaImagen)" alt="@item.Producto.NombreProducto" style="width: 100px; height: 100px;" /></td>
+                    <td>@item.Producto.NombreProducto</td>
+                    <td>S/@item.Producto.Precio</td>
+                    <td>@item.Cantidad</td>
+                    <td>S/@(Math.Round(item.Producto.Precio * item.Cantidad,2))</td>
+                    <td>
+                        <form asp-action="ActualizarCantidad" method="post">
+                            <input type="hidden" name="idProducto" value="@item.Producto.IdProducto" />
+                            <input type="number" name="cantidad" value="@item.Cantidad" min="1" max="@item.Producto.Cantidad" />
+                            <button type="submit" class="btn btn-secondary">Actualizar</button>
+                        </form>
+                        <form asp-action="EliminarDelCarro" method="post">
+                            <input type="hidden" name="idProducto" value="@item.Producto.IdProducto" />
+                            <button type="submit" class="btn btn-danger">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="d-flex justify-content-end">
+        <h3>Total: S/@Model.CarroCompra.Sum(item => item.Producto.Precio * item.Cantidad).ToString("0.00")</h3>
+    </div>
+    <div class="d-flex justify-content-end">
+        <form asp-action="RealizarPago" method="post">
+            <button type="submit" class="btn btn-primary">Realizar Pago</button>
+        </form>
+    </div>
+}
+else
+{
+    <p>El carrito está vacío.</p>
+}
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#tipoBusqueda').change(function () {
+                var selectedTipo = $(this).val();
+                var url = '@Url.Action("ObtenerOpciones", "Carrito")' + '?tipoBusqueda=' + selectedTipo;
+                $.get(url, function (data) {
+                    $('#id').empty();
+                    $.each(data, function (index, item) {
+                        $('#id').append('<option value="' + item.value + '">' + item.text + '</option>');
+                    });
+                });
+            });
+        });
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $('input[name="cantidad"]').change(function () {
+                var cantidad = $(this).val();
+                var idProducto = $(this).attr('id').split('_')[1]; 
+
+                $('#cantidadHidden_' + idProducto).val(cantidad);
+            });
+
+            $('form[action="AgregarAlCarro"]').submit(function (event) {
+                event.preventDefault(); 
+
+                var form = $(this);
+                var url = form.attr('action');
+                var data = form.serialize();
+
+                $.post(url, data, function (response) {
+                    alert('Producto añadido al carrito');
+                });
+            });
+        });
+    </script>
+}

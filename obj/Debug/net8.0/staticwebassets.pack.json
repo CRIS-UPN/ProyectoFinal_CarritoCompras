@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProyectoFinal_CarritoCompras.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProyectoFinal_CarritoCompras.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\agua.png",
+      "PackagePath": "staticwebassets\\images\\agua.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\cocatrad.png",
+      "PackagePath": "staticwebassets\\images\\cocatrad.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\cocazero.png",
+      "PackagePath": "staticwebassets\\images\\cocazero.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\corona.png",
+      "PackagePath": "staticwebassets\\images\\corona.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\cusqueña.png",
+      "PackagePath": "staticwebassets\\images\\cusqueña.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\cusqueña2.png",
+      "PackagePath": "staticwebassets\\images\\cusqueña2.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\empanada.png",
+      "PackagePath": "staticwebassets\\images\\empanada.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\everest.png",
+      "PackagePath": "staticwebassets\\images\\everest.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\four.png",
+      "PackagePath": "staticwebassets\\images\\four.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\guarana.png",
+      "PackagePath": "staticwebassets\\images\\guarana.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\hamilton.png",
+      "PackagePath": "staticwebassets\\images\\hamilton.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\helado.png",
+      "PackagePath": "staticwebassets\\images\\helado.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\imgcarro.png",
+      "PackagePath": "staticwebassets\\images\\imgcarro.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\incatrad.png",
+      "PackagePath": "staticwebassets\\images\\incatrad.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\incazero.png",
+      "PackagePath": "staticwebassets\\images\\incazero.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\lays.png",
+      "PackagePath": "staticwebassets\\images\\lays.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\lucky.png",
+      "PackagePath": "staticwebassets\\images\\lucky.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\mikes.png",
+      "PackagePath": "staticwebassets\\images\\mikes.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\mision.png",
+      "PackagePath": "staticwebassets\\images\\mision.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\oreo.png",
+      "PackagePath": "staticwebassets\\images\\oreo.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\pepsi.png",
+      "PackagePath": "staticwebassets\\images\\pepsi.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\pepsi2.png",
+      "PackagePath": "staticwebassets\\images\\pepsi2.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\pisco.png",
+      "PackagePath": "staticwebassets\\images\\pisco.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\pisco2.png",
+      "PackagePath": "staticwebassets\\images\\pisco2.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\rellenitas.png",
+      "PackagePath": "staticwebassets\\images\\rellenitas.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\rexona.png",
+      "PackagePath": "staticwebassets\\images\\rexona.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\ron.png",
+      "PackagePath": "staticwebassets\\images\\ron.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\sixpilsen.png",
+      "PackagePath": "staticwebassets\\images\\sixpilsen.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\somos.png",
+      "PackagePath": "staticwebassets\\images\\somos.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\tambo.png",
+      "PackagePath": "staticwebassets\\images\\tambo.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\vape.png",
+      "PackagePath": "staticwebassets\\images\\vape.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\vision.png",
+      "PackagePath": "staticwebassets\\images\\vision.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\images\\vodka.png",
+      "PackagePath": "staticwebassets\\images\\vodka.png"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\ExamenFinal\\ProyectoFinal_CarritoCompras\\ProyectoFinal_CarritoCompras\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProyectoFinal_CarritoCompras.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProyectoFinal_CarritoCompras.props",
+      "PackagePath": "build\\ProyectoFinal_CarritoCompras.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoFinal_CarritoCompras.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoFinal_CarritoCompras.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProyectoFinal_CarritoCompras.props",
+      "PackagePath": "buildTransitive\\ProyectoFinal_CarritoCompras.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
